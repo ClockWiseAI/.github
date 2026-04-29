@@ -20,6 +20,7 @@
 
 | Репозиторий | Описание | Стек |
 |-------------|----------|------|
+| [**idea**](https://github.com/clockwiseai/clockwise_idea) | Идея SaaS продукта, ознакомление | - |
 | [**web**](https://github.com/clockwiseai/web) | Веб-приложение + API | Vue 3, FastAPI, PostgreSQL |
 | [**desktop**](https://github.com/clockwiseai/desktop) | Десктоп трекер | Tauri (Rust), React/TS |
 | [**ai-engine**](https://github.com/clockwiseai/ai-engine) | AI классификация времени | PyTorch, ONNX, FastAPI |
