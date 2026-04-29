@@ -20,12 +20,12 @@
 
 | Репозиторий | Описание | Стек |
 |-------------|----------|------|
-| [**web**](https://github.com/clockwise-ai/web) | Веб-приложение + API | Vue 3, FastAPI, PostgreSQL |
-| [**desktop**](https://github.com/clockwise-ai/desktop) | Десктоп трекер | Tauri (Rust), React/TS |
-| [**ai-engine**](https://github.com/clockwise-ai/ai-engine) | AI классификация времени | PyTorch, ONNX, FastAPI |
-| [**docs**](https://github.com/clockwise-ai/docs) | Документация | Markdown, MKDocs |
-| [**infra**](https://github.com/clockwise-ai/infra) | Инфраструктура как код | Terraform, Ansible |
-| [**mobile**](https://github.com/clockwise-ai/mobile) | Мобильное приложение (roadmap) | Kotlin/Swift |
+| [**web**](https://github.com/clockwiseai/web) | Веб-приложение + API | Vue 3, FastAPI, PostgreSQL |
+| [**desktop**](https://github.com/clockwiseai/desktop) | Десктоп трекер | Tauri (Rust), React/TS |
+| [**ai-engine**](https://github.com/clockwiseai/ai-engine) | AI классификация времени | PyTorch, ONNX, FastAPI |
+| [**docs**](https://github.com/clockwiseai/docs) | Документация | Markdown, MKDocs |
+| [**infra**](https://github.com/clockwiseai/infra) | Инфраструктура как код | Terraform, Ansible |
+| [**mobile**](https://github.com/clockwiseai/mobile) | Мобильное приложение (roadmap) | Kotlin/Swift |
 
 ---
 
